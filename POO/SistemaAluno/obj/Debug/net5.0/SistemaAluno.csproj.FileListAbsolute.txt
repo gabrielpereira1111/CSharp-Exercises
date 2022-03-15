@@ -1,0 +1,16 @@
+C:\Users\PICHAU\Desktop\CSharp\POO\SistemaAluno\bin\Debug\net5.0\SistemaAluno.exe
+C:\Users\PICHAU\Desktop\CSharp\POO\SistemaAluno\bin\Debug\net5.0\SistemaAluno.deps.json
+C:\Users\PICHAU\Desktop\CSharp\POO\SistemaAluno\bin\Debug\net5.0\SistemaAluno.runtimeconfig.json
+C:\Users\PICHAU\Desktop\CSharp\POO\SistemaAluno\bin\Debug\net5.0\SistemaAluno.runtimeconfig.dev.json
+C:\Users\PICHAU\Desktop\CSharp\POO\SistemaAluno\bin\Debug\net5.0\SistemaAluno.dll
+C:\Users\PICHAU\Desktop\CSharp\POO\SistemaAluno\bin\Debug\net5.0\ref\SistemaAluno.dll
+C:\Users\PICHAU\Desktop\CSharp\POO\SistemaAluno\bin\Debug\net5.0\SistemaAluno.pdb
+C:\Users\PICHAU\Desktop\CSharp\POO\SistemaAluno\obj\Debug\net5.0\SistemaAluno.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\CSharp\POO\SistemaAluno\obj\Debug\net5.0\SistemaAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\CSharp\POO\SistemaAluno\obj\Debug\net5.0\SistemaAluno.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\CSharp\POO\SistemaAluno\obj\Debug\net5.0\SistemaAluno.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\CSharp\POO\SistemaAluno\obj\Debug\net5.0\SistemaAluno.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\CSharp\POO\SistemaAluno\obj\Debug\net5.0\SistemaAluno.dll
+C:\Users\PICHAU\Desktop\CSharp\POO\SistemaAluno\obj\Debug\net5.0\ref\SistemaAluno.dll
+C:\Users\PICHAU\Desktop\CSharp\POO\SistemaAluno\obj\Debug\net5.0\SistemaAluno.pdb
+C:\Users\PICHAU\Desktop\CSharp\POO\SistemaAluno\obj\Debug\net5.0\SistemaAluno.genruntimeconfig.cache

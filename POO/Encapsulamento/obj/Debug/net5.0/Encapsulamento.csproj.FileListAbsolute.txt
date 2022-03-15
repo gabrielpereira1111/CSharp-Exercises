@@ -1,0 +1,16 @@
+C:\Users\PICHAU\Desktop\CSharp\POO\Encapsulamento\bin\Debug\net5.0\Encapsulamento.exe
+C:\Users\PICHAU\Desktop\CSharp\POO\Encapsulamento\bin\Debug\net5.0\Encapsulamento.deps.json
+C:\Users\PICHAU\Desktop\CSharp\POO\Encapsulamento\bin\Debug\net5.0\Encapsulamento.runtimeconfig.json
+C:\Users\PICHAU\Desktop\CSharp\POO\Encapsulamento\bin\Debug\net5.0\Encapsulamento.runtimeconfig.dev.json
+C:\Users\PICHAU\Desktop\CSharp\POO\Encapsulamento\bin\Debug\net5.0\Encapsulamento.dll
+C:\Users\PICHAU\Desktop\CSharp\POO\Encapsulamento\bin\Debug\net5.0\ref\Encapsulamento.dll
+C:\Users\PICHAU\Desktop\CSharp\POO\Encapsulamento\bin\Debug\net5.0\Encapsulamento.pdb
+C:\Users\PICHAU\Desktop\CSharp\POO\Encapsulamento\obj\Debug\net5.0\Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\CSharp\POO\Encapsulamento\obj\Debug\net5.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\CSharp\POO\Encapsulamento\obj\Debug\net5.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\CSharp\POO\Encapsulamento\obj\Debug\net5.0\Encapsulamento.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\CSharp\POO\Encapsulamento\obj\Debug\net5.0\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\CSharp\POO\Encapsulamento\obj\Debug\net5.0\Encapsulamento.dll
+C:\Users\PICHAU\Desktop\CSharp\POO\Encapsulamento\obj\Debug\net5.0\ref\Encapsulamento.dll
+C:\Users\PICHAU\Desktop\CSharp\POO\Encapsulamento\obj\Debug\net5.0\Encapsulamento.pdb
+C:\Users\PICHAU\Desktop\CSharp\POO\Encapsulamento\obj\Debug\net5.0\Encapsulamento.genruntimeconfig.cache

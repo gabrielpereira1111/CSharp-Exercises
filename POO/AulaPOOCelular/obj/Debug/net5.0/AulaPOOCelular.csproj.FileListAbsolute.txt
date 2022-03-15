@@ -1,0 +1,16 @@
+C:\Users\PICHAU\Desktop\CSharp\POO\AulaPOOCelular\bin\Debug\net5.0\AulaPOOCelular.exe
+C:\Users\PICHAU\Desktop\CSharp\POO\AulaPOOCelular\bin\Debug\net5.0\AulaPOOCelular.deps.json
+C:\Users\PICHAU\Desktop\CSharp\POO\AulaPOOCelular\bin\Debug\net5.0\AulaPOOCelular.runtimeconfig.json
+C:\Users\PICHAU\Desktop\CSharp\POO\AulaPOOCelular\bin\Debug\net5.0\AulaPOOCelular.runtimeconfig.dev.json
+C:\Users\PICHAU\Desktop\CSharp\POO\AulaPOOCelular\bin\Debug\net5.0\AulaPOOCelular.dll
+C:\Users\PICHAU\Desktop\CSharp\POO\AulaPOOCelular\bin\Debug\net5.0\ref\AulaPOOCelular.dll
+C:\Users\PICHAU\Desktop\CSharp\POO\AulaPOOCelular\bin\Debug\net5.0\AulaPOOCelular.pdb
+C:\Users\PICHAU\Desktop\CSharp\POO\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\CSharp\POO\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\CSharp\POO\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\CSharp\POO\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\CSharp\POO\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\CSharp\POO\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.dll
+C:\Users\PICHAU\Desktop\CSharp\POO\AulaPOOCelular\obj\Debug\net5.0\ref\AulaPOOCelular.dll
+C:\Users\PICHAU\Desktop\CSharp\POO\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.pdb
+C:\Users\PICHAU\Desktop\CSharp\POO\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.genruntimeconfig.cache

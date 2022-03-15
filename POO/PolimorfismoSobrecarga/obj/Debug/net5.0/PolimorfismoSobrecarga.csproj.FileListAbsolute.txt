@@ -1,0 +1,16 @@
+C:\Users\PICHAU\Desktop\CSharp\POO\PolimorfismoSobrecarga\bin\Debug\net5.0\PolimorfismoSobrecarga.exe
+C:\Users\PICHAU\Desktop\CSharp\POO\PolimorfismoSobrecarga\bin\Debug\net5.0\PolimorfismoSobrecarga.deps.json
+C:\Users\PICHAU\Desktop\CSharp\POO\PolimorfismoSobrecarga\bin\Debug\net5.0\PolimorfismoSobrecarga.runtimeconfig.json
+C:\Users\PICHAU\Desktop\CSharp\POO\PolimorfismoSobrecarga\bin\Debug\net5.0\PolimorfismoSobrecarga.runtimeconfig.dev.json
+C:\Users\PICHAU\Desktop\CSharp\POO\PolimorfismoSobrecarga\bin\Debug\net5.0\PolimorfismoSobrecarga.dll
+C:\Users\PICHAU\Desktop\CSharp\POO\PolimorfismoSobrecarga\bin\Debug\net5.0\ref\PolimorfismoSobrecarga.dll
+C:\Users\PICHAU\Desktop\CSharp\POO\PolimorfismoSobrecarga\bin\Debug\net5.0\PolimorfismoSobrecarga.pdb
+C:\Users\PICHAU\Desktop\CSharp\POO\PolimorfismoSobrecarga\obj\Debug\net5.0\PolimorfismoSobrecarga.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\CSharp\POO\PolimorfismoSobrecarga\obj\Debug\net5.0\PolimorfismoSobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\CSharp\POO\PolimorfismoSobrecarga\obj\Debug\net5.0\PolimorfismoSobrecarga.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\CSharp\POO\PolimorfismoSobrecarga\obj\Debug\net5.0\PolimorfismoSobrecarga.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\CSharp\POO\PolimorfismoSobrecarga\obj\Debug\net5.0\PolimorfismoSobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\CSharp\POO\PolimorfismoSobrecarga\obj\Debug\net5.0\PolimorfismoSobrecarga.dll
+C:\Users\PICHAU\Desktop\CSharp\POO\PolimorfismoSobrecarga\obj\Debug\net5.0\ref\PolimorfismoSobrecarga.dll
+C:\Users\PICHAU\Desktop\CSharp\POO\PolimorfismoSobrecarga\obj\Debug\net5.0\PolimorfismoSobrecarga.pdb
+C:\Users\PICHAU\Desktop\CSharp\POO\PolimorfismoSobrecarga\obj\Debug\net5.0\PolimorfismoSobrecarga.genruntimeconfig.cache

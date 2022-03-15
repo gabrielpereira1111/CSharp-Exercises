@@ -1,0 +1,16 @@
+C:\Users\PICHAU\Desktop\CSharp\POO\Atributos&Metodos\bin\Debug\net5.0\AtributosMetodos.exe
+C:\Users\PICHAU\Desktop\CSharp\POO\Atributos&Metodos\bin\Debug\net5.0\AtributosMetodos.deps.json
+C:\Users\PICHAU\Desktop\CSharp\POO\Atributos&Metodos\bin\Debug\net5.0\AtributosMetodos.runtimeconfig.json
+C:\Users\PICHAU\Desktop\CSharp\POO\Atributos&Metodos\bin\Debug\net5.0\AtributosMetodos.runtimeconfig.dev.json
+C:\Users\PICHAU\Desktop\CSharp\POO\Atributos&Metodos\bin\Debug\net5.0\AtributosMetodos.dll
+C:\Users\PICHAU\Desktop\CSharp\POO\Atributos&Metodos\bin\Debug\net5.0\ref\AtributosMetodos.dll
+C:\Users\PICHAU\Desktop\CSharp\POO\Atributos&Metodos\bin\Debug\net5.0\AtributosMetodos.pdb
+C:\Users\PICHAU\Desktop\CSharp\POO\Atributos&Metodos\obj\Debug\net5.0\AtributosMetodos.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\CSharp\POO\Atributos&Metodos\obj\Debug\net5.0\AtributosMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\CSharp\POO\Atributos&Metodos\obj\Debug\net5.0\AtributosMetodos.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\CSharp\POO\Atributos&Metodos\obj\Debug\net5.0\AtributosMetodos.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\CSharp\POO\Atributos&Metodos\obj\Debug\net5.0\AtributosMetodos.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\CSharp\POO\Atributos&Metodos\obj\Debug\net5.0\AtributosMetodos.dll
+C:\Users\PICHAU\Desktop\CSharp\POO\Atributos&Metodos\obj\Debug\net5.0\ref\AtributosMetodos.dll
+C:\Users\PICHAU\Desktop\CSharp\POO\Atributos&Metodos\obj\Debug\net5.0\AtributosMetodos.pdb
+C:\Users\PICHAU\Desktop\CSharp\POO\Atributos&Metodos\obj\Debug\net5.0\AtributosMetodos.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\PICHAU\Desktop\CSharp\POO\Estatica\bin\Debug\net5.0\Estatica.exe
+C:\Users\PICHAU\Desktop\CSharp\POO\Estatica\bin\Debug\net5.0\Estatica.deps.json
+C:\Users\PICHAU\Desktop\CSharp\POO\Estatica\bin\Debug\net5.0\Estatica.runtimeconfig.json
+C:\Users\PICHAU\Desktop\CSharp\POO\Estatica\bin\Debug\net5.0\Estatica.runtimeconfig.dev.json
+C:\Users\PICHAU\Desktop\CSharp\POO\Estatica\bin\Debug\net5.0\Estatica.dll
+C:\Users\PICHAU\Desktop\CSharp\POO\Estatica\bin\Debug\net5.0\ref\Estatica.dll
+C:\Users\PICHAU\Desktop\CSharp\POO\Estatica\bin\Debug\net5.0\Estatica.pdb
+C:\Users\PICHAU\Desktop\CSharp\POO\Estatica\obj\Debug\net5.0\Estatica.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\CSharp\POO\Estatica\obj\Debug\net5.0\Estatica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\CSharp\POO\Estatica\obj\Debug\net5.0\Estatica.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\CSharp\POO\Estatica\obj\Debug\net5.0\Estatica.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\CSharp\POO\Estatica\obj\Debug\net5.0\Estatica.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\CSharp\POO\Estatica\obj\Debug\net5.0\Estatica.dll
+C:\Users\PICHAU\Desktop\CSharp\POO\Estatica\obj\Debug\net5.0\ref\Estatica.dll
+C:\Users\PICHAU\Desktop\CSharp\POO\Estatica\obj\Debug\net5.0\Estatica.pdb
+C:\Users\PICHAU\Desktop\CSharp\POO\Estatica\obj\Debug\net5.0\Estatica.genruntimeconfig.cache
