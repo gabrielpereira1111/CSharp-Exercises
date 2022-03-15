@@ -1,0 +1,16 @@
+C:\Users\PICHAU\Desktop\CSharp\ProjetoProdutos\bin\Debug\net5.0\ProjetoProdutos.exe
+C:\Users\PICHAU\Desktop\CSharp\ProjetoProdutos\bin\Debug\net5.0\ProjetoProdutos.deps.json
+C:\Users\PICHAU\Desktop\CSharp\ProjetoProdutos\bin\Debug\net5.0\ProjetoProdutos.runtimeconfig.json
+C:\Users\PICHAU\Desktop\CSharp\ProjetoProdutos\bin\Debug\net5.0\ProjetoProdutos.runtimeconfig.dev.json
+C:\Users\PICHAU\Desktop\CSharp\ProjetoProdutos\bin\Debug\net5.0\ProjetoProdutos.dll
+C:\Users\PICHAU\Desktop\CSharp\ProjetoProdutos\bin\Debug\net5.0\ref\ProjetoProdutos.dll
+C:\Users\PICHAU\Desktop\CSharp\ProjetoProdutos\bin\Debug\net5.0\ProjetoProdutos.pdb
+C:\Users\PICHAU\Desktop\CSharp\ProjetoProdutos\obj\Debug\net5.0\ProjetoProdutos.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\CSharp\ProjetoProdutos\obj\Debug\net5.0\ProjetoProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\CSharp\ProjetoProdutos\obj\Debug\net5.0\ProjetoProdutos.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\CSharp\ProjetoProdutos\obj\Debug\net5.0\ProjetoProdutos.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\CSharp\ProjetoProdutos\obj\Debug\net5.0\ProjetoProdutos.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\CSharp\ProjetoProdutos\obj\Debug\net5.0\ProjetoProdutos.dll
+C:\Users\PICHAU\Desktop\CSharp\ProjetoProdutos\obj\Debug\net5.0\ref\ProjetoProdutos.dll
+C:\Users\PICHAU\Desktop\CSharp\ProjetoProdutos\obj\Debug\net5.0\ProjetoProdutos.pdb
+C:\Users\PICHAU\Desktop\CSharp\ProjetoProdutos\obj\Debug\net5.0\ProjetoProdutos.genruntimeconfig.cache
