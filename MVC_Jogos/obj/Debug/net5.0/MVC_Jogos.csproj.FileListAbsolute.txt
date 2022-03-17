@@ -1,0 +1,16 @@
+C:\Users\PICHAU\Desktop\CSharp\MVC_Jogos\bin\Debug\net5.0\MVC_Jogos.exe
+C:\Users\PICHAU\Desktop\CSharp\MVC_Jogos\bin\Debug\net5.0\MVC_Jogos.deps.json
+C:\Users\PICHAU\Desktop\CSharp\MVC_Jogos\bin\Debug\net5.0\MVC_Jogos.runtimeconfig.json
+C:\Users\PICHAU\Desktop\CSharp\MVC_Jogos\bin\Debug\net5.0\MVC_Jogos.runtimeconfig.dev.json
+C:\Users\PICHAU\Desktop\CSharp\MVC_Jogos\bin\Debug\net5.0\MVC_Jogos.dll
+C:\Users\PICHAU\Desktop\CSharp\MVC_Jogos\bin\Debug\net5.0\ref\MVC_Jogos.dll
+C:\Users\PICHAU\Desktop\CSharp\MVC_Jogos\bin\Debug\net5.0\MVC_Jogos.pdb
+C:\Users\PICHAU\Desktop\CSharp\MVC_Jogos\obj\Debug\net5.0\MVC_Jogos.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\CSharp\MVC_Jogos\obj\Debug\net5.0\MVC_Jogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\CSharp\MVC_Jogos\obj\Debug\net5.0\MVC_Jogos.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\CSharp\MVC_Jogos\obj\Debug\net5.0\MVC_Jogos.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\CSharp\MVC_Jogos\obj\Debug\net5.0\MVC_Jogos.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\CSharp\MVC_Jogos\obj\Debug\net5.0\MVC_Jogos.dll
+C:\Users\PICHAU\Desktop\CSharp\MVC_Jogos\obj\Debug\net5.0\ref\MVC_Jogos.dll
+C:\Users\PICHAU\Desktop\CSharp\MVC_Jogos\obj\Debug\net5.0\MVC_Jogos.pdb
+C:\Users\PICHAU\Desktop\CSharp\MVC_Jogos\obj\Debug\net5.0\MVC_Jogos.genruntimeconfig.cache
