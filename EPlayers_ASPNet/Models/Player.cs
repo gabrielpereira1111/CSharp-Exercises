@@ -43,6 +43,7 @@ namespace EPlayers_ASPNet.Models
                 player.PlayerId = int.Parse(item.Split(";")[0]);
                 player.Name = item.Split(";")[1];
                 player.TeamId = int.Parse(item.Split(";")[2]);
+                playerList.Add(player);
             }
             return playerList;
         }
