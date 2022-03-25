@@ -19,9 +19,14 @@ namespace EPlayers_ASPNet.Models
             CreateDatabase(PATH);
         }
 
+        public string Prepare(Match match){
+            return $"{match.MatchId};{match.PlayerOneId};{match.PlayerTwoId};{match.StartHour};{match.EndHour}";
+        }
+
         public void Create(Match match)
         {
-            throw new NotImplementedException();
+            string[] line = { Prepare(match) };
+            File.AppendAllLines( PATH , line );
         }
 
         public List<Match> Read()
@@ -43,12 +48,17 @@ namespace EPlayers_ASPNet.Models
 
         public void Update(Match match)
         {
-            throw new NotImplementedException();
+            List<string> content = ReadCSV(PATH);
+            content.RemoveAll(x => x.Split(";")[0] == match.MatchId.ToString());
+            content.Add( Prepare(match) );
+            WriteLineCSV( PATH , content );
         }
 
         public void Delete(int id)
         {
-            throw new NotImplementedException();
+            List<string> content = ReadCSV(PATH);
+            content.RemoveAll(x => x.Split(";")[0] == id.ToString());
+            WriteLineCSV( PATH , content );
         }
     }
 }
