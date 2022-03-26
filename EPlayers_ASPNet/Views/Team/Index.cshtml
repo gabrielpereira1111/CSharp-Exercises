@@ -3,7 +3,7 @@
     ViewData["Title"] = "Teams";
 }
 
-<form method="post" action='@Url.Action("Create")'>
+<form method="post" action='@Url.Action("Create")' enctype="multipart/form-data">
     <label>Team ID</label>
     <input type="text" name="TeamId">
     
@@ -11,7 +11,7 @@
     <input type="text" name="Name">
     
     <label>Image</label>
-    <input type="text" name="Image">
+    <input type="file" name="Image">
 
     <button type="submit">Cadastrar</button>
 </form>
@@ -29,7 +29,9 @@
             <tr>
                 <td>@item.TeamId</td>
                 <td>@item.Name</td>
-                <td>@item.Image</td>
+                <td>
+                    <img src="/img/Team/@item.Image" alt="Logo da @item.Name" width="100">
+                </td>
             </tr>
         }
     </tbody>

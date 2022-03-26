@@ -38,3 +38,4 @@ C:\Users\PICHAU\Desktop\CSharp\EPlayers_ASPNet\obj\Debug\net5.0\ref\EPlayers_ASP
 C:\Users\PICHAU\Desktop\CSharp\EPlayers_ASPNet\obj\Debug\net5.0\EPlayers_ASPNet.pdb
 C:\Users\PICHAU\Desktop\CSharp\EPlayers_ASPNet\obj\Debug\net5.0\EPlayers_ASPNet.genruntimeconfig.cache
 C:\Users\PICHAU\Desktop\CSharp\EPlayers_ASPNet\obj\Debug\net5.0\EPlayers_ASPNet.csproj.CopyComplete
+C:\Users\PICHAU\Desktop\CSharp\EPlayers_ASPNet\obj\Debug\net5.0\Razor\Views\Team\Index.cshtml.g.cs
