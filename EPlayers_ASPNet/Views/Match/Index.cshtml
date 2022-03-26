@@ -1,0 +1,45 @@
+@model Match
+@{
+    ViewData["Title"] = "Matches";
+}
+
+<form method="POST" action='@Url.Action("Create")'>
+    <label>Match ID</label>
+    <input type="text" name="MatchId">
+
+    <label>Player One ID</label>
+    <input type="text" name="PlayerOneId">
+
+    <label>Player Two ID</label>
+    <input type="text" name="PlayerTwoId">
+
+    <label>Start Hour</label>
+    <input type="datetime-local" name="StartHour">
+
+    <label>End Hour</label>
+    <input type="datetime-local" name="EndHour">
+
+    <button type="submit">Cadastrar</button>
+</form>
+
+<table>
+    <thead>
+        <th>Match ID</th>
+        <th>Player One ID</th>
+        <th>Player Two ID</th>
+        <th>Start Hour</th>
+        <th>End Hour</th>
+    </thead>
+    <tbody>
+        @foreach (Match item in ViewBag.Match)
+        {
+            <tr>
+                <td>@item.MatchId</td>
+                <td>@item.PlayerOneId</td>
+                <td>@item.PlayerTwoId</td>
+                <td>@item.StartHour</td>
+                <td>@item.EndHour</td>
+            </tr>
+        }
+    </tbody>
+</table>
