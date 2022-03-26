@@ -32,6 +32,9 @@
                 <td>
                     <img src="/img/Team/@item.Image" alt="Logo da @item.Name" width="100">
                 </td>
+                <td>
+                    <a asp-area="Excluir um time" asp-controller="Team" asp-action="Delete" asp-route-id="@item.TeamId">Excluir</a>
+                </td>
             </tr>
         }
     </tbody>

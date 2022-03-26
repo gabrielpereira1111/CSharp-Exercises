@@ -49,6 +49,12 @@ namespace EPlayers_ASPNet.Controllers
             ViewBag.Team = team.Read();
             return LocalRedirect("~/Team/Read");
         }
-        
+
+        [Route("{id}")]
+        public IActionResult Delete(int id){
+            team.Delete(id);
+            ViewBag.Team = team.Read();
+            return LocalRedirect("~/Team/Read");
+        }       
     }
 }
