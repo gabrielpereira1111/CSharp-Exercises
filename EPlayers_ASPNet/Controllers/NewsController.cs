@@ -46,5 +46,12 @@ namespace EPlayers_ASPNet.Controllers
 
             return LocalRedirect("~/News/Read");
         }
+
+        [Route("Delete")]
+        public IActionResult Delete(int id){
+            news.Delete(id);
+            ViewBag.News = news.Read();
+            return LocalRedirect("~/News/Read");
+        }
     }
 }
