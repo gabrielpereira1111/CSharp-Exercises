@@ -1,0 +1,51 @@
+@model News
+@{
+    ViewData["Title"] = "News";
+}
+
+@*
+    Na action -> O 'Create' que passamos como argumento é adicionado à nossa URL(Isso é o que esse método faz); e a rota com o 'Create' é justamente o método que cria uma notícia 
+*@
+<form action='@Url.Action("Create")' method="post" enctype="multipart/form-data">
+    <label>News ID</label>
+    <input type="text" name="NewsId">
+
+    <label>Title</label>
+    <input type="text" name="Title">
+
+    <label>Text</label>
+    <input type="text" name="Text">
+
+    <label>Image</label>
+    <input type="file" name="Image">
+
+    <button type="submit">Cadastrar</button>
+</form>
+
+<table>
+    <thead>
+        <th>News ID</th>
+        <th>Title</th>
+        <th>Text</th>
+        <th>Image</th>
+    </thead>
+
+    <tbody>
+        @foreach (News news in ViewBag.News)
+        {
+            <tr>
+                <td>@news.NewsId</td>
+                <td>@news.Title</td>
+                <td>@news.Text</td>
+                <td>
+                    <img src="img/News/@news.Image" alt="Imagem da notícia @news.Title">
+                </td>
+                <td>
+                    <a asp-area="Link para deletar uma notícia" asp-controller="News" asp-action="Delete" asp-route-id="@news.NewsId">
+                        Excluir
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
