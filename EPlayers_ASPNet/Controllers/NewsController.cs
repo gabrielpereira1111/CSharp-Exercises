@@ -1,4 +1,6 @@
+using System.IO;
 using EPlayers_ASPNet.Models;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace EPlayers_ASPNet.Controllers
@@ -13,6 +15,36 @@ namespace EPlayers_ASPNet.Controllers
             ViewBag.News = news.Read();
             return View();
         }
-    
+
+        [Route("Create")]
+        public IActionResult Create(IFormCollection form){
+            News newNews = new News();
+            newNews.NewsId = int.Parse(form["NewsId"]);
+            newNews.Title = form["Title"];
+            newNews.Text = form["Text"];
+
+            if(form.Files.Count > 0){
+                var file = form.Files[0];
+                var folder = Path.Combine(Directory.GetCurrentDirectory() , "wwwroot/img/News");
+                if(!Directory.Exists(folder)){
+                    Directory.CreateDirectory(folder);
+                }
+                var path = Path.Combine(Directory.GetCurrentDirectory() , "wwwroot/img" , folder , file.FileName);
+
+                using (var stream = new FileStream(path , FileMode.Create))
+                {
+                    file.CopyTo(stream);
+                }
+
+                newNews.Image = file.FileName;
+            } else {
+                newNews.Image = "padrao.png";
+            }
+
+            news.Create(newNews);
+            ViewBag.News = news.Read();
+
+            return LocalRedirect("~/News/Read");
+        }
     }
 }
