@@ -38,7 +38,7 @@
                 <td>@news.Title</td>
                 <td>@news.Text</td>
                 <td>
-                    <img src="img/News/@news.Image" alt="Imagem da notícia @news.Title">
+                    <img src="/img/News/@news.Image" alt="Imagem da notícia @news.Title" width="100">
                 </td>
                 <td>
                     <a asp-area="Link para deletar uma notícia" asp-controller="News" asp-action="Delete" asp-route-id="@news.NewsId">
