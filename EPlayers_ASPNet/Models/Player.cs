@@ -8,8 +8,11 @@ namespace EPlayers_ASPNet.Models
     {
         public int PlayerId { get; set; }
         public string Name { get; set; }
+        public string Email { get; set; }
+        public string Password { get; set; }
         public int TeamId { get; set; }
-        const string PATH = "Database/Player.csv";
+        
+        public string PATH = "Database/Player.csv";
 
         public Player()
         {
@@ -17,7 +20,7 @@ namespace EPlayers_ASPNet.Models
         }
 
         public string Prepare(Player player){
-            return $"{player.PlayerId};{player.Name};{player.TeamId}";
+            return $"{player.PlayerId};{player.Name};{player.TeamId};{player.Email};{player.Password}";
         }
 
         public void Create(Player player)
@@ -43,6 +46,8 @@ namespace EPlayers_ASPNet.Models
                 player.PlayerId = int.Parse(item.Split(";")[0]);
                 player.Name = item.Split(";")[1];
                 player.TeamId = int.Parse(item.Split(";")[2]);
+                player.Email = item.Split(";")[3];
+                player.Password = item.Split(";")[4];
                 playerList.Add(player);
             }
             return playerList;
