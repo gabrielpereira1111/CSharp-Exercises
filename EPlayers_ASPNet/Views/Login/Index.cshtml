@@ -1,0 +1,17 @@
+@{
+    ViewData["Title"] = "Login";
+}
+<h1>@ViewData["Title"]</h1>
+
+<form action='@Url.Action("In")' method="post">
+    <label>Email</label>
+    <input type="text" name="Email">
+
+    <label>Password</label>
+    <input type="text" name="Password">
+
+    <button type="submit">Login</button>
+    
+    <i>@TempData.Peek("Message")</i>
+    
+</form>

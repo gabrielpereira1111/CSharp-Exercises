@@ -15664,6 +15664,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\PICHAU\\Desktop\\CSharp\\EPlayers_ASPNet\\Views\\Login\\Index.cshtml",
+      "TargetPath": "Views\\Login\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\PICHAU\\Desktop\\CSharp\\EPlayers_ASPNet\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
