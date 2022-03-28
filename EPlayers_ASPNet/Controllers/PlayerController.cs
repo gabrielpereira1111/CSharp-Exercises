@@ -45,5 +45,12 @@ namespace EPlayers_ASPNet.Controllers
             ViewBag.Player = player.Read();
             return LocalRedirect("~/Player/Read");
         }
+
+        [Route("{id}")]
+        public IActionResult Delete(int id){
+            player.Delete(id);
+            ViewBag.Player = player.Read();
+            return LocalRedirect("~/Player/Read");
+        }
     }
 }
