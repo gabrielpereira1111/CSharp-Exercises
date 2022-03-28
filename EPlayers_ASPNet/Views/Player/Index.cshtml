@@ -7,7 +7,7 @@
     Cadastro de @ViewData["Title"]
 </h1>
 
-<form action='@Url.Action("Create")'>
+<form action='@Url.Action("Create")' method="post">
     <label>Player Id</label>
     <input type="text" name="PlayerId">
 
@@ -48,6 +48,9 @@
                 <td>@item.Name</td>
                 <td>@item.TeamId</td>
                 <td>@item.Email</td>
+                <td>
+                    <a asp-area="Link para deletar jogador" asp-controller="Player" asp-action="Delete" asp-route-id="@item.PlayerId">Excluir</a>
+                </td>
             </tr>
         }
     </tbody>

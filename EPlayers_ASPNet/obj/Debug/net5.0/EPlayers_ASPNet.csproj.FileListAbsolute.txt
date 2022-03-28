@@ -40,3 +40,4 @@ C:\Users\PICHAU\Desktop\CSharp\EPlayers_ASPNet\obj\Debug\net5.0\EPlayers_ASPNet.
 C:\Users\PICHAU\Desktop\CSharp\EPlayers_ASPNet\obj\Debug\net5.0\EPlayers_ASPNet.csproj.CopyComplete
 C:\Users\PICHAU\Desktop\CSharp\EPlayers_ASPNet\obj\Debug\net5.0\Razor\Views\Team\Index.cshtml.g.cs
 C:\Users\PICHAU\Desktop\CSharp\EPlayers_ASPNet\obj\Debug\net5.0\Razor\Views\News\Index.cshtml.g.cs
+C:\Users\PICHAU\Desktop\CSharp\EPlayers_ASPNet\obj\Debug\net5.0\Razor\Views\Player\Index.cshtml.g.cs

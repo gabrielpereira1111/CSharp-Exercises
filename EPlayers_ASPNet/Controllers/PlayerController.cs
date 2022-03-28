@@ -14,8 +14,8 @@ namespace EPlayers_ASPNet.Controllers
          */
         Team team = new Team();
 
-        [Route("Read")]
-        public IActionResult Read(){
+        
+        public IActionResult Index(){
             /*
                 A ViewBag serve para tornar os dados do back-end para a View('front')
             */
@@ -43,14 +43,14 @@ namespace EPlayers_ASPNet.Controllers
 
             player.Create(newPlayer);
             ViewBag.Player = player.Read();
-            return LocalRedirect("~/Player/Read");
+            return LocalRedirect("~/Player");
         }
 
         [Route("{id}")]
         public IActionResult Delete(int id){
             player.Delete(id);
             ViewBag.Player = player.Read();
-            return LocalRedirect("~/Player/Read");
+            return LocalRedirect("~/Player");
         }
     }
 }
