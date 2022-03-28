@@ -8,9 +8,9 @@ namespace EPlayers_ASPNet.Models
     {
         public int PlayerId { get; set; }
         public string Name { get; set; }
+        public int TeamId { get; set; }
         public string Email { get; set; }
         public string Password { get; set; }
-        public int TeamId { get; set; }
         
         public string PATH = "Database/Player.csv";
 

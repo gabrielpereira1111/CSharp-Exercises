@@ -1,0 +1,54 @@
+@model Player
+@{
+    ViewData["Title"] = "Player";
+}
+
+<h1>
+    Cadastro de @ViewData["Title"]
+</h1>
+
+<form action='@Url.Action("Create")'>
+    <label>Player Id</label>
+    <input type="text" name="PlayerId">
+
+    <label>Name</label>
+    <input type="text" name="Name">
+
+    <label>Team</label>
+    <select name="TeamId">
+        <option value="0">Select a team</option>
+        @foreach (var item in ViewBag.Team)
+        {
+            <option value="@item.TeamId">@item.Name</option>
+        }
+    </select>
+
+    <label>Email</label>
+    <input type="email" name="Email">
+
+    <label>Password</label>
+    <input type="password" name="Password">
+
+    <button type="submit">Cadastrar</button>
+</form>
+
+<table>
+    <thead>
+        <th>Player ID</th>
+        <th>Name</th>
+        <th>Team ID</th>
+        <th>Email</th>
+    </thead>
+
+    <tbody>
+        @foreach (var item in ViewBag.Player)
+        {
+            <tr>
+                <td>@item.PlayerId</td>
+                <td>@item.Name</td>
+                <td>@item.TeamId</td>
+                <td>@item.Email</td>
+            </tr>
+        }
+    </tbody>
+</table>
