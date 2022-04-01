@@ -21,21 +21,10 @@ namespace MVC_Jogos.Model
             }
         }
 
-        /*
-            Esse método é responsável por ler o conteúdo do nosso 'Banco de Dados'. O tipo de retorno é uma lista de jogos porque o método precisa 'mandar' essa lista tratada para que o Controller mande para a View.
-        */
+        // Devolve uma lista de jogos para quem chamar esse método
         public List<Jogos> Ler(){
-            /*
-                Aqui é criada uma lista de jogos(objetos), instanciando essa nova classe[criando um objeto dessa classe de lista(List<Jogos>)]
-            */
             List<Jogos> listaJogos = new List<Jogos>();
-            /*
-                Criamos um array de strings chamado 'content', que, cada índice, armazenará uma linha do nosso 'Banco de Dados'.
-            */
             string[] content = File.ReadAllLines(PATH);
-            /*
-                Laço de repetição que percorre o array de strings 'content'. Cada vez que ele passa por um índice(que são formados pelas linhas do 'BD'), ele armazena o conteúdo na variável 'item'
-            */
             foreach(string item in content){
                 Jogos jogo = new Jogos();
                 jogo.Codigo = int.Parse(item.Split(";")[0]);
@@ -51,9 +40,7 @@ namespace MVC_Jogos.Model
             File.AppendAllLines( PATH, content );
         }
 
-        /*
-            Esse método formata um objeto do tipo 'Jogos' em uma linha de arquivo CSV 
-        */
+        // Método que converte um objeto do tipo 'jogo' em string
         public string PrepararLinhaCSV(Jogos jogo){
             return $"{jogo.Codigo};{jogo.Nome};{jogo.Preco}";
         }
