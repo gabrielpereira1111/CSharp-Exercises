@@ -7,6 +7,7 @@ namespace Polimorfismo
     {
         static void Main(string[] args)
         {
+            /*.*/
             MegaMan m = new MegaMan();
             Console.WriteLine("MegaMan:");
             // Como esse método pelo MegaMan foi sobreescrito(override), ele vai ser diferente do "Correr" do Zero
