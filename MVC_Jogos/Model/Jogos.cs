@@ -37,35 +37,12 @@ namespace MVC_Jogos.Model
                 Laço de repetição que percorre o array de strings 'content'. Cada vez que ele passa por um índice(que são formados pelas linhas do 'BD'), ele armazena o conteúdo na variável 'item'
             */
             foreach(string item in content){
-                /*
-                    Crio um objeto da classe 'Jogos' chamado 'jogo' com a finalidade de atribuir as informações armazenadas em 'item'(Código, Nome, Preço) às suas respectivas propriedades desse objetos, para então adicioná-lo na lista criada acima
-                */
                 Jogos jogo = new Jogos();
-                /*
-                    Atribuo o índice 0 do array de item criado pelo método .Split e atribuo à propriedade 'Codigo' do objeto 'jogo' 
-                */
                 jogo.Codigo = int.Parse(item.Split(";")[0]);
-                /*
-                    Atribuo o índice 1 do array de item criado pelo método .Split e atribuo à propriedade 'Nome' do objeto 'jogo' 
-                */
                 jogo.Nome = item.Split(";")[1];
-                /*
-                    Atribuo o índice 2 do array de item criado pelo método .Split e atribuo à propriedade 'Preco' do objeto 'jogo' 
-                */
                 jogo.Preco = float.Parse(item.Split(";")[2]);
-
-                /*
-                    Adiciono esse objeto tratado à lista de jogos 'ListaJogos'
-                */
                 listaJogos.Add(jogo);
             }
-
-            /*
-                Retorna essa lista de jogos já com todos os jogos adicionados. 
-                
-                O que seria retornar?
-                R: Quem chamar esse método terá como resposta essa lista de jogos(Como se o método se tornasse o lista)  
-            */
             return listaJogos;
         }
 
@@ -80,5 +57,7 @@ namespace MVC_Jogos.Model
         public string PrepararLinhaCSV(Jogos jogo){
             return $"{jogo.Codigo};{jogo.Nome};{jogo.Preco}";
         }
+
+    
     }
 }
