@@ -12,9 +12,7 @@ namespace MVC_Jogos.View
             }
         }
 
-        /*
-            Método que pedirá que o usuário cadastre um jogo(Por isso que está na View). Seu tipo de retorno é uma classe 'Jogos' porque será preciso "enviar" esse jogo cadastrado(objeto) para o Controller
-        */
+        
         public Jogos InserirJogo(){
             Jogos jogo = new Jogos();
             Console.Write($"Código do jogo: ");
