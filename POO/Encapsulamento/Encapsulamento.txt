@@ -1,0 +1,19 @@
+O encapsulamento é um pilar da Programação Orientada a Objetos que é sobre segurança de métodos e atributos.
+
+public: método/atributo acessível para todo o projeto;
+protected: métodos/atributos acessíveis apenas para a própria classe e subclasses;
+private: métodos/atributos acessíveis apenas para a própria classe.
+
+Métodos Acessores -
+Dão acesso de inserção e/ou leitura para um atributo.
+get: litura;
+set: inerção.
+
+Forma completa: 
+	PROPRIEDADE {
+		get { return ATRIBUTO; }
+		set { ATRIBUTO = value; }
+	}
+Forma abreviada: 
+	PROPRIEDADE { get; set; }
+	
