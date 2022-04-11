@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PICHAU\\Desktop\\CSharp\\Listas\\Listas.csproj",
+      "projectUniqueName": "C:\\Users\\PICHAU\\Desktop\\CSharp-Exercises\\Listas\\Listas.csproj",
       "projectName": "Listas",
-      "projectPath": "C:\\Users\\PICHAU\\Desktop\\CSharp\\Listas\\Listas.csproj",
+      "projectPath": "C:\\Users\\PICHAU\\Desktop\\CSharp-Exercises\\Listas\\Listas.csproj",
       "packagesPath": "C:\\Users\\PICHAU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PICHAU\\Desktop\\CSharp\\Listas\\obj\\",
+      "outputPath": "C:\\Users\\PICHAU\\Desktop\\CSharp-Exercises\\Listas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PICHAU\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
