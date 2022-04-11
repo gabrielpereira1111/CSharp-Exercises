@@ -27,7 +27,7 @@ namespace Listas
 
             produtos.RemoveAt(2);
             
-            Console.WriteLine();
+            
 
             foreach(Produto item in produtos){
                 Console.WriteLine($"{item.Nome} - R$ {item.Preco}");
